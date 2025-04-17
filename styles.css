@@ -29,7 +29,6 @@ nav span{
 }
 nav span:hover{
     cursor: pointer;
-    color:white;
 }
 #search{
     border-radius: 15px;
