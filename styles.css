@@ -176,6 +176,12 @@ main{
         display: none;
     }
   }
+
+@media screen and (min-width: 1278px) {
+    main{
+        margin:100px 300px;
+    }
+  }
   
   @media screen and (max-width: 600px) {
     .topnav.responsive {
