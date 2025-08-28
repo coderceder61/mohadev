@@ -9,6 +9,11 @@ body,html{
     background-color: black;
     width:100%;
 }
+#about,
+#skills,
+#projects {
+  scroll-margin-top: 100px; /* adjust to your header height */
+}
 html{
     scroll-behavior: smooth;
 }
