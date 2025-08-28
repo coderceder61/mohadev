@@ -10,11 +10,11 @@ body,html{
     width:100%;
     scroll-behavior: smooth;
 }
-#myTopnav a{
+#myTopnav a,#myTopnav a span{
     text-decoration: none;
 }
 
-#myTopnav a:hover{
+#myTopnav a span:hover{
     color: #fff;
 }
 header{
