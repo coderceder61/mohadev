@@ -21,6 +21,14 @@ html{
     text-decoration: none;
 }
 
+#socialmedia{
+    color:gray;
+}
+
+#socialmedia a:visited,#socialmedia a:focus,#socialmedia a:active,#socialmedia a:hover{
+    color:white;
+}
+
 #myTopnav a span:hover{
     color: #fff;
 }
