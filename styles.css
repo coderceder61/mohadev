@@ -125,6 +125,7 @@ main{
     color: white;
 }
 #skills div{
+    height: 160px;
     display: flex;
     flex-direction: column;
     margin: 20px;
