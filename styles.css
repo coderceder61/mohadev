@@ -25,7 +25,7 @@ html{
     color:gray;
 }
 
-#socialmedia a:visited,#socialmedia a:focus,#socialmedia a:active,#socialmedia a:hover{
+#socialmedia a:focus,#socialmedia a:active,#socialmedia a:hover{
     color:white;
 }
 
