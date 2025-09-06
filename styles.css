@@ -113,7 +113,7 @@ main{
 #skills{
     display: flex;
     flex-wrap: wrap;
-    width:60%;
+    width:100%;
     margin:50px auto;
     justify-content:center;
 }
@@ -148,7 +148,7 @@ main{
 #projects{
     display: flex;
     flex-wrap: wrap;
-    width:70%;
+    width:100%;
     margin:50px auto;
     justify-content:center;
     text-align:center;
