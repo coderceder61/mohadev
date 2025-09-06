@@ -13,6 +13,7 @@ body,html{
 #skills,
 #projects {
   scroll-margin-top: 100px; /* adjust to your header height */
+    width:100%;
 }
 html{
     scroll-behavior: smooth;
