@@ -92,9 +92,12 @@ main{
 }
 #jumb{
     position: absolute;
-    right:90px;
-    bottom:-90px;
-    width: 250px;
+    right: 90px;
+    bottom: -33px;
+    width: 200px;
+    object-fit: cover;
+    height: 200px;
+    border-radius: 50%;
 }
 #socialmedia{
     position: absolute;
