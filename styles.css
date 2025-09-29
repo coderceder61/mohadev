@@ -12,7 +12,7 @@ body,html{
 #skills,
 #projects {
   scroll-margin-top: 100px; /* adjust to your header height */
-    width:100%;
+    width:80%;
 }
 html{
     scroll-behavior: smooth;
@@ -116,7 +116,7 @@ main{
 #skills{
     display: flex;
     flex-wrap: wrap;
-    width:100%;
+    width:80%;
     margin:50px auto;
     justify-content:center;
 }
