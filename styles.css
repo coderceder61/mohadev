@@ -13,6 +13,7 @@ body,html{
 #projects {
   scroll-margin-top: 100px; /* adjust to your header height */
     width:80%;
+    margin:auto;
 }
 html{
     scroll-behavior: smooth;
