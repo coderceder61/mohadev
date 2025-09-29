@@ -205,7 +205,7 @@ main{
 
 @media screen and (min-width: 1400px) {
     main{
-        margin:100px 300px;
+        margin:100px auto;
     }
   }
   
