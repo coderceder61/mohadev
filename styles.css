@@ -86,8 +86,9 @@ main>span:hover{
     background-color:rgb(247, 247, 86);
 }
 main{
-    margin: 100px 150px;
     position: relative;
+    margin: 100px auto;
+    width: 80%;
 }
 #jumb{
     position: absolute;
