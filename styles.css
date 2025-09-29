@@ -151,7 +151,7 @@ main{
 #projects{
     display: flex;
     flex-wrap: wrap;
-    width:100%;
+    width:80%;
     margin:50px auto;
     justify-content:center;
     text-align:center;
