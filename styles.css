@@ -159,6 +159,7 @@ main{
 
 #projects div img{
     width: 250px;
+    margin-bottom: 15px;
 }
 
 #projects a {
